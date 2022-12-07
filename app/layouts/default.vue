@@ -35,6 +35,6 @@ export default class DefaultLayout extends Vue {}
 }
 
 .nuxt {
-  transition: all 0.5s cubic-bezier(0.55, 0, 0.1, 1);
+  transition: all 1.5s cubic-bezier(0.55, 0, 0.1, 1);
 }
 </style>
