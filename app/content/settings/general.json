@@ -1,9 +1,9 @@
 {
   "title": "Homev",
   "titleTemplate": "| Bluise",
-  "welcomeText": "APPGenie\n\n We provide tailored software solutions for mobile, web and desktop applications\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "welcomeText": "# Yo, I'm The App Genie! - Got an Idea? Sign Up Below.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "logo": "https://getvectorlogo.com/wp-content/uploads/2018/11/the-genie-company-vector-logo.png",
+  "icon": "https://getvectorlogo.com/wp-content/uploads/2018/11/the-genie-company-vector-logo.png",
   "loadingColor": "#0b3765",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",
   "seoMetaImage": ""
