@@ -37,7 +37,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="https://i.postimg.cc/90N3C7cW/logo4.png"
+          src="https://getvectorlogo.com/wp-content/uploads/2018/11/the-genie-company-vector-logo.png"
         />
       </div>
     </div>
